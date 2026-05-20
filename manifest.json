@@ -1,0 +1,21 @@
+ 1 {
+       2   "name": "감성 일기장",
+       3   "short_name": "일기장",
+       4   "description": "따뜻하고 아늑한 나만의 비밀 일기장",
+       5   "start_url": "./index.html",
+       6   "display": "standalone",
+       7   "background_color": "#fdf6e3",
+       8   "theme_color": "#fdf6e3",
+       9   "icons": [
+      10     {
+      11       "src": "icon-192.png",
+      12       "sizes": "192x192",
+      13       "type": "image/png"
+      14     },
+      15     {
+      16       "src": "icon-512.png",
+      17       "sizes": "512x512",
+      18       "type": "image/png"
+      19     }
+      20   ]
+      21 }
